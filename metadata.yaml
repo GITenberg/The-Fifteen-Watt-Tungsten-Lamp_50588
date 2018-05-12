@@ -1,10 +1,16 @@
 _repo: The-Fifteen-Watt-Tungsten-Lamp_50588
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50588-h/images/cover.jpg
 creator:
   author:
     agent_name: Anderson, Clair Elmore
     gutenberg_agent_id: '45988'
     url: http://www.gutenberg.org/2009/agents/45988
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50588#The-Fifteen-Watt-Tungsten-Lamp
 gutenberg_issued: '2015-12-02'
 gutenberg_type: Text
 identifiers:
